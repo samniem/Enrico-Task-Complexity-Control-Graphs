@@ -43,7 +43,7 @@
             "java.lang.Object"
           ],
           "resource-id": "co.good.android:id/toolbar_left_btn",
-          "clickable": false,
+          "clickable": true,
           "class": "android.support.v7.widget.AppCompatImageView",
           "bounds": [
             42,
@@ -79,7 +79,7 @@
         "android.view.View",
         "java.lang.Object"
       ],
-      "clickable": false,
+      "clickable": true,
       "class": "co.good.android.ui.view.GCTextView",
       "bounds": [
         0,
@@ -97,7 +97,7 @@
         "java.lang.Object"
       ],
       "resource-id": "co.good.android:id/settings_item_icon",
-      "clickable": false,
+      "clickable": true,
       "class": "android.support.v7.widget.AppCompatImageView",
       "bounds": [
         1310,
@@ -115,7 +115,7 @@
         "android.view.View",
         "java.lang.Object"
       ],
-      "clickable": false,
+      "clickable": true,
       "class": "co.good.android.ui.view.GCTextView",
       "bounds": [
         0,
@@ -133,7 +133,7 @@
         "java.lang.Object"
       ],
       "resource-id": "co.good.android:id/settings_item_icon",
-      "clickable": false,
+      "clickable": true,
       "class": "android.support.v7.widget.AppCompatImageView",
       "bounds": [
         1310,
@@ -151,7 +151,7 @@
         "android.view.View",
         "java.lang.Object"
       ],
-      "clickable": false,
+      "clickable": true,
       "class": "co.good.android.ui.view.GCTextView",
       "bounds": [
         0,
@@ -169,7 +169,7 @@
         "java.lang.Object"
       ],
       "resource-id": "co.good.android:id/settings_item_icon",
-      "clickable": false,
+      "clickable": true,
       "class": "android.support.v7.widget.AppCompatImageView",
       "bounds": [
         1310,

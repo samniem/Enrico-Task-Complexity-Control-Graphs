@@ -237,7 +237,7 @@
             980,
             1110
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "ancestors": [
@@ -288,7 +288,7 @@
             980,
             1268
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "ancestors": [
@@ -339,7 +339,7 @@
             980,
             1426
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "ancestors": [
@@ -390,7 +390,7 @@
             980,
             1572
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "ancestors": [
@@ -441,7 +441,7 @@
             980,
             1739
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "ancestors": [
@@ -492,7 +492,7 @@
             980,
             1897
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "ancestors": [
@@ -538,7 +538,7 @@
         "android.view.View",
         "java.lang.Object"
       ],
-      "clickable": true,
+      "clickable": false,
       "class": "android.widget.ListView",
       "bounds": [
         0,

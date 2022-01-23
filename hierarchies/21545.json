@@ -19,7 +19,7 @@
       "children": [
         {
           "iconClass": "arrow_backward",
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "iconClass": "arrow_backward",
@@ -117,7 +117,7 @@
         702,
         1334
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "resource-id": "com.mcdeliveryonline.app:id/item_image",
@@ -190,7 +190,7 @@
         1439,
         1334
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "resource-id": "com.mcdeliveryonline.app:id/item_image",
@@ -263,7 +263,7 @@
         702,
         1947
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "resource-id": "com.mcdeliveryonline.app:id/item_image",
@@ -336,7 +336,7 @@
         1439,
         1947
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "resource-id": "com.mcdeliveryonline.app:id/item_image",
@@ -409,7 +409,7 @@
         702,
         2392
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "resource-id": "com.mcdeliveryonline.app:id/item_image",
@@ -482,7 +482,7 @@
         1439,
         2392
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "resource-id": "com.mcdeliveryonline.app:id/item_image",
@@ -621,7 +621,7 @@
         "java.lang.Object"
       ],
       "resource-id": "com.mcdeliveryonline.app:id/browse_nav_next",
-      "clickable": false,
+      "clickable": true,
       "class": "android.widget.ImageView",
       "bounds": [
         1310,

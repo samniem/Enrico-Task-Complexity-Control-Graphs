@@ -43,7 +43,7 @@
             1216,
             448
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "text": "SPG Free Nights",
@@ -79,7 +79,7 @@
             1216,
             616
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "text": "SPG Cash & Points",
@@ -115,7 +115,7 @@
             1216,
             784
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "text": "Breakfast Package",
@@ -151,7 +151,7 @@
             1216,
             952
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "text": "SPG Breakfast Plus",
@@ -187,7 +187,7 @@
             1216,
             1120
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "text": "Promotions & Packages",
@@ -223,7 +223,7 @@
             1216,
             1288
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "text": "SET/Corporate Account #: ",
@@ -259,7 +259,7 @@
             1216,
             1456
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "text": "Automobile Association",
@@ -295,7 +295,7 @@
             1216,
             1583
           ],
-          "clickable": false,
+          "clickable": true,
           "children": [
             {
               "text": "Senior & AARP",
