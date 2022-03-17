@@ -58,7 +58,7 @@
         "android.view.View",
         "java.lang.Object"
       ],
-      "clickable": true,
+      "clickable": false,
       "class": "android.support.v7.widget.Toolbar",
       "bounds": [
         0,
@@ -81,7 +81,7 @@
         713,
         1277
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
@@ -134,7 +134,7 @@
         1426,
         1277
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
@@ -187,7 +187,7 @@
         713,
         2274
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
@@ -240,7 +240,7 @@
         1426,
         2274
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
@@ -293,7 +293,7 @@
         713,
         2392
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
@@ -328,7 +328,7 @@
         1426,
         2392
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [

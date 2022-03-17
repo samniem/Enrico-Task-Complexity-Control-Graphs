@@ -79,7 +79,7 @@
             "java.lang.Object"
           ],
           "resource-id": "com.batanga:id/image",
-          "clickable": false,
+          "clickable": true,
           "class": "android.support.v7.widget.AppCompatImageView",
           "bounds": [
             1118,
@@ -95,7 +95,7 @@
         "android.view.View",
         "java.lang.Object"
       ],
-      "clickable": true,
+      "clickable": false,
       "class": "android.support.v7.widget.Toolbar",
       "bounds": [
         0,
@@ -223,7 +223,7 @@
         "java.lang.Object"
       ],
       "resource-id": "com.batanga:id/like",
-      "clickable": false,
+      "clickable": true,
       "class": "android.support.v7.widget.AppCompatImageButton",
       "bounds": [
         1052,

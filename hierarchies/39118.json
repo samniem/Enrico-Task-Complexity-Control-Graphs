@@ -63,7 +63,7 @@
         1440,
         735
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
@@ -134,7 +134,7 @@
         1440,
         1194
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
@@ -205,7 +205,7 @@
         1440,
         1653
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
@@ -276,7 +276,7 @@
         1440,
         2112
       ],
-      "clickable": false,
+      "clickable": true,
       "children": [
         {
           "ancestors": [
