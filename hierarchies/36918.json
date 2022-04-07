@@ -73,7 +73,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -127,7 +127,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -182,7 +182,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -236,7 +236,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -291,7 +291,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -346,7 +346,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -401,7 +401,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -456,7 +456,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -511,7 +511,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -565,7 +565,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -619,7 +619,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,
@@ -673,7 +673,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatCheckedTextView",
           "bounds": [
             252,

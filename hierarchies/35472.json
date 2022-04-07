@@ -81,7 +81,7 @@
         1440,
         811
       ],
-      "clickable": true,
+      "clickable": false,
       "children": [
         {
           "text": " Once upon a time, there lived a poor Brahmin in a village. His name was Swabhav...",
@@ -135,7 +135,7 @@
         1440,
         1154
       ],
-      "clickable": true,
+      "clickable": false,
       "children": [
         {
           "text": " There in a deep jungle, lived a lion by the name of Madotkata. He had three sel...",
@@ -223,7 +223,7 @@
         1440,
         1495
       ],
-      "clickable": true,
+      "clickable": false,
       "children": [
         {
           "text": " Once upon a time, there lived in a village, a youth by the name of Brahmadatta....",
@@ -277,7 +277,7 @@
         1440,
         1836
       ],
-      "clickable": true,
+      "clickable": false,
       "children": [
         {
           "text": " Once upon a time, there lived a poor Brahmin in a village. He used to perform p...",
@@ -331,7 +331,7 @@
         1440,
         2177
       ],
-      "clickable": true,
+      "clickable": false,
       "children": [
         {
           "text": " In a city called Vardhamana, there lived a rich trader by the name of Dantila. ...",
@@ -385,7 +385,7 @@
         1440,
         2392
       ],
-      "clickable": true,
+      "clickable": false,
       "children": [
         {
           "text": " It was a meeting of all the gods in heaven. Lord Indra was also sitting on his ...",

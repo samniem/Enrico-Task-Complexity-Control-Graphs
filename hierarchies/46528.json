@@ -71,7 +71,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -89,7 +89,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -107,7 +107,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -125,7 +125,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -143,7 +143,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -161,7 +161,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -179,7 +179,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -197,7 +197,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -215,7 +215,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,
@@ -233,7 +233,7 @@
             "android.view.View",
             "java.lang.Object"
           ],
-          "clickable": true,
+          "clickable": false,
           "class": "android.widget.CheckedTextView",
           "bounds": [
             215,

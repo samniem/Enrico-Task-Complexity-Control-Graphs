@@ -20,7 +20,7 @@
         "java.lang.Object"
       ],
       "resource-id": "com.minube.app:id/view_pager_indicator",
-      "clickable": true,
+      "clickable": false,
       "class": "com.viewpagerindicator.CirclePageIndicator",
       "bounds": [
         0,

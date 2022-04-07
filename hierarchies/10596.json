@@ -79,7 +79,7 @@
             "java.lang.Object"
           ],
           "resource-id": "com.syncme.syncmeapp:id/hs__conversation_icon",
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.AppCompatImageView",
           "bounds": [
             1300,

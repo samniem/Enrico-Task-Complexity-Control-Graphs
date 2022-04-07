@@ -57,7 +57,7 @@
         "android.view.View",
         "java.lang.Object"
       ],
-      "clickable": true,
+      "clickable": false,
       "class": "android.support.v7.widget.br",
       "bounds": [
         281,

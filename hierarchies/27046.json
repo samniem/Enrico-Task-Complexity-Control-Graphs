@@ -101,7 +101,7 @@
             1015,
             806
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "iconClass": "home",
@@ -155,7 +155,7 @@
             1015,
             981
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "ancestors": [
@@ -208,7 +208,7 @@
             1015,
             1156
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "iconClass": "favorite",
@@ -262,7 +262,7 @@
             1015,
             1331
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "iconClass": "music",
@@ -316,7 +316,7 @@
             1015,
             1506
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "iconClass": "microphone",
@@ -370,7 +370,7 @@
             1015,
             1681
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "iconClass": "cart",
@@ -424,7 +424,7 @@
             1015,
             1856
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "iconClass": "settings",
@@ -478,7 +478,7 @@
             1015,
             2031
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "iconClass": "chat",
@@ -532,7 +532,7 @@
             1015,
             2206
           ],
-          "clickable": true,
+          "clickable": false,
           "children": [
             {
               "iconClass": "help",
@@ -579,7 +579,7 @@
         "android.view.View",
         "java.lang.Object"
       ],
-      "clickable": false,
+      "clickable": true,
       "class": "android.widget.RelativeLayout",
       "bounds": [
         0,

@@ -106,7 +106,7 @@
             "java.lang.Object"
           ],
           "resource-id": "com.jb.gokeyboard.theme.gotmeamericankeyboard:id/iv_step_one",
-          "clickable": true,
+          "clickable": false,
           "class": "android.support.v7.widget.ba",
           "bounds": [
             632,
