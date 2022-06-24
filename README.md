@@ -11,7 +11,8 @@ This code was generated as part of my Master's thesis research project, where th
 
 For background on the dataset please see
 ```
-L. A. Leiva, A. Hota, A. Oulasvirta. Enrico: A High-quality Dataset for Topic Modeling of Mobile UI Designs. 
+L. A. Leiva, A. Hota, A. Oulasvirta. 
+Enrico: A High-quality Dataset for Topic Modeling of Mobile UI Designs. 
 Proc. MobileHCI Adjunct, 2020.
 ```
 and
