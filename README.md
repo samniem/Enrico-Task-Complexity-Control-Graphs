@@ -4,6 +4,9 @@ These control graphs are usable to measure interaction structure on user interfa
 ## Getting started
 To get started please refer to main.ipynb file as this project was done using Jupyter.
 
+In order to browse examples you can access a particular Rico ID screenshot or hierarchy under the respective folder names.
+The corresponding graph can be found under the graphs folder. The up-to-date plots of the complexity computation summaries are available under the results folder. 
+
 ## Brief Background
 This code was generated as part of my Master's thesis research project, where the purpose was to generate task complexity control graphs for mobile interfaces in a large scale setting. 
 
