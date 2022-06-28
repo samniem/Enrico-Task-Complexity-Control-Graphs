@@ -8,9 +8,10 @@ In order to browse examples you can access a particular Rico ID screenshot or hi
 The corresponding graph can be found under the graphs folder. The up-to-date plots of the complexity computation summaries are available under the results folder. 
 
 ## Brief Background
-This code was generated as part of my Master's thesis research project, where the purpose was to generate task complexity control graphs for mobile interfaces in a large scale setting. 
+This code was generated as part of my Master's thesis research project, where the purpose was to generate task complexity control graphs for Enrico mobile interfaces in a large scale setting. 
 
 ## References
+Thesis reference <To be uploaded>
 
 For background on the dataset please see
 ```
