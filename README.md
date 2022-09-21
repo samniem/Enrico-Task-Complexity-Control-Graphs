@@ -16,9 +16,6 @@ The corresponding graph can be found under the graphs folder. The up-to-date plo
 
 Analytics.csv file contains the computed results for all of the complexity graphs.
 
-## Brief Background
-This code was generated as part of my Master's thesis research project, where the purpose was to generate task complexity control graphs for Enrico mobile interfaces in a large scale setting. 
-
 ## References
 Thesis reference <To be uploaded>
 
